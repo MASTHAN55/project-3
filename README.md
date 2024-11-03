@@ -38,12 +38,12 @@ Jenkins installed and configured
 [jenkins.sh](https://github.com/MASTHAN55/project-3/blob/main/jenkins.sh).
 
 
-Ansible installed and configured
-amazon-linux-extras install ansible2 -y
+## Ansible installed and configured
+[amazon-linux-extras install ansible2 -y
 
 yum install python3 python-pip python-devel -y
 
-vim /etc/ansible/hosts
+vim /etc/ansible/hosts]
 Ex 1: Ungrouped hosts, specify before any group headers.
 
 [dev] 172.31.20.40 172.31.21.25
