@@ -66,7 +66,7 @@ Automated setup of Tomcat using Ansible. Tomcat installtion
 installation
 
 ## Jenkins & Ansible Integration:
-Smooth integration for automated deployments.[pipeline]()
+Smooth integration for automated deployments.[pipeline](https://github.com/MASTHAN55/project-3/blob/main/pipeline)
 
 ## Parameterized Pipeline:
 AWS CodePipeline is configured with parameterized values for flexibility across dev and test environments.
