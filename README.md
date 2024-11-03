@@ -26,13 +26,13 @@ Automated configuration of Apache web server using Ansible.[deploy-file](https:/
 ### Code Integration:
 The pipeline triggers whenever a developer pushes code to the GitHub repository.
 
-Build & Test:
+### Build & Test:
 The latest code changes are automatically built and tested.
 
-Deployment:
+### Deployment:
 Successfully tested builds are deployed to the dev, test, and prod environments using Ansible.
 
-Getting Started
+### Getting Started
 Jenkins installed and configured
 jenkins
 
