@@ -72,6 +72,6 @@ Smooth integration for automated deployments. pipeline
 AWS CodePipeline is configured with parameterized values for flexibility across dev and test environments.
 
 ## application deployment on worker nodes
-worker node1
+[worker node1]()
 
 worker node2
