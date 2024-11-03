@@ -33,8 +33,9 @@ The latest code changes are automatically built and tested.
 Successfully tested builds are deployed to the dev, test, and prod environments using Ansible.
 
 ### Getting Started
-Jenkins installed and configured [jenkins.sh](https://github.com/MASTHAN55/project-3/blob/main/jenkins.sh).
-jenkins
+Jenkins installed and configured 
+[jenkins.sh](https://github.com/MASTHAN55/project-3/blob/main/jenkins.sh).
+
 
 Ansible installed and configured
 amazon-linux-extras install ansible2 -y
