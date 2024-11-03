@@ -46,11 +46,11 @@ Jenkins installed and configured
 vim /etc/ansible/hosts
 Ex 1: Ungrouped hosts, specify before any group headers.
 
-####[dev] 
+### [dev] 
 172.31.20.40 
 172.31.21.25
 
-####[test] 
+### [test] 
 172.31.31.77 
 172.31.22.114
 
