@@ -39,12 +39,12 @@ Jenkins installed and configured
 
 
 ## Ansible installed and configured
-<clipbord-copy>amazon-linux-extras install ansible2 -y
+<clipbord-copy> amazon-linux-extras install ansible2 -y
 
  yum install python3 python-pip python-devel -y
 
 vim /etc/ansible/hosts
-Ex 1: Ungrouped hosts, specify before any group headers<clipbord-copy>.
+Ex 1: Ungrouped hosts, specify before any group headers <clipbord-copy>.
 
 [dev] 172.31.20.40 172.31.21.25
 
