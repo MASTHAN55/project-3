@@ -33,7 +33,7 @@ The latest code changes are automatically built and tested.
 Successfully tested builds are deployed to the dev, test, and prod environments using Ansible.
 
 ### Getting Started
-Jenkins installed and configured
+Jenkins installed and configured [jenkins.sh]()
 jenkins
 
 Ansible installed and configured
