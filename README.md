@@ -56,18 +56,18 @@ To check worker node connection with ansible server.
  ansible -m ping all 
 worker nodes ping
 
-Tomcat Setup on Worker Nodes:
+## Tomcat Setup on Worker Nodes:
 Automated setup of Tomcat using Ansible. Tomcat installtion
 
 installation
 
-Jenkins & Ansible Integration:
+## Jenkins & Ansible Integration:
 Smooth integration for automated deployments. pipeline
 
-Parameterized Pipeline:
+## Parameterized Pipeline:
 AWS CodePipeline is configured with parameterized values for flexibility across dev and test environments.
 
-application deployment on worker nodes
+## application deployment on worker nodes
 worker node1
 
 worker node2
