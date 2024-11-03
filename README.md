@@ -16,4 +16,4 @@ Ansible manages configurations and deployment tasks across dev, test, and prod e
 
 ## Key Features
 ## Tomcat Setup on Worker Nodes:
-Automated setup of Tomcat using Ansible [tomcat installation](https://github.com/MASTHAN55/all-setup/blob/main/tomcat.sh)
+Automated setup of Tomcat using Ansible [tomcat installation](https://github.com/MASTHAN55/all-setup/blob/main/tomcat.sh) [check version properly befor installation]
