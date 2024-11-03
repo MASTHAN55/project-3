@@ -35,7 +35,7 @@ Successfully tested builds are deployed to the dev, test, and prod environments 
 ### Getting Started
 Jenkins installed and configured 
 
-[jenkins.sh](https://github.com/MASTHAN55/project-3/blob/main/jenkins.sh).
+[jenkins](https://github.com/MASTHAN55/project-3/blob/main/jenkins.sh).
 
 
 ## Ansible installed and configured
