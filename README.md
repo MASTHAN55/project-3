@@ -61,7 +61,7 @@ To check worker node connection with ansible server.
 worker nodes ping
 
 ## Tomcat Setup on Worker Nodes:
-Automated setup of Tomcat using Ansible. [Tomcat installtion]()
+Automated setup of Tomcat using Ansible. [Tomcat installtion](https://github.com/MASTHAN55/project-3/blob/main/tomcat.yml)
 
 installation
 
