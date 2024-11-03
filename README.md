@@ -56,9 +56,9 @@ Ex 1: Ungrouped hosts, specify before any group headers.
 
 ssh-keygen            -- > enter 4 times 
 ssh-copy-id root@    private ip of dev-1
-To check worker node connection with ansible server.
+## To check worker node connection with ansible server.
  ansible -m ping all 
-worker nodes ping
+[worker nodes ping](https://github.com/MASTHAN55/project-3/blob/main/screen-shots/ping%20(2).png)
 
 ## Tomcat Setup on Worker Nodes:
 Automated setup of Tomcat using Ansible. [Tomcat installtion](https://github.com/MASTHAN55/project-3/blob/main/tomcat.yml)
