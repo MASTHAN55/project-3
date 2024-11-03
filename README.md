@@ -46,9 +46,13 @@ Jenkins installed and configured
 vim /etc/ansible/hosts
 Ex 1: Ungrouped hosts, specify before any group headers.
 
-[dev] 172.31.20.40 172.31.21.25
+####[dev] 
+172.31.20.40 
+172.31.21.25
 
-[test] 172.31.31.77 172.31.22.114
+####[test] 
+172.31.31.77 
+172.31.22.114
 
 ssh-keygen            -- > enter 4 times 
 ssh-copy-id root@    private ip of dev-1
