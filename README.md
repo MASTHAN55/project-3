@@ -39,11 +39,11 @@ Jenkins installed and configured
 
 
 ## Ansible installed and configured
- [[amazon-linux-extras install ansible2 -y
+ amazon-linux-extras install ansible2 -y
 
  yum install python3 python-pip python-devel -y
 
-vim /etc/ansible/hosts]]
+vim /etc/ansible/hosts
 Ex 1: Ungrouped hosts, specify before any group headers.
 
 ### [dev] 
