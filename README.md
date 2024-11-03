@@ -14,6 +14,6 @@ The pipeline is parameterized to support dynamic deployments across dev and test
 ## Ensure Consistency:
 Ansible manages configurations and deployment tasks across dev, test, and prod environments, ensuring consistent results.
 
-# Key Features
+## Key Features
 ## Tomcat Setup on Worker Nodes:
 Automated setup of Tomcat using Ansible
