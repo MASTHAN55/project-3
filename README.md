@@ -74,4 +74,4 @@ AWS CodePipeline is configured with parameterized values for flexibility across 
 ## application deployment on worker nodes
 [worker node1](https://github.com/MASTHAN55/project-3/blob/main/screen-shots/slave1.png).
 
-worker node2
+[worker node2](https://github.com/MASTHAN55/project-3/blob/main/screen-shots/slave2.png)
