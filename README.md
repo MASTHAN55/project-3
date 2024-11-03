@@ -23,4 +23,4 @@ Smooth integration for automated deployments [jenkins-pipeline](https://github.c
 ## Parameterized Pipeline:
 AWS CodePipeline is configured with parameterized values for flexibility across dev and test environments. [jenkins-pipeline](https://github.com/MASTHAN55/project-3/blob/main/pipeline)
 ## Apache Integration:
-Automated configuration of Apache web server using Ansible.[]()
+Automated configuration of Apache web server using Ansible.[deploy-file](https://github.com/MASTHAN55/project-3/blob/main/deploy.yml)
