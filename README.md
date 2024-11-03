@@ -10,10 +10,9 @@ Jenkins Pipeline automates the entire application lifecycle, from code integrati
 
 ### Parameterized Deployment:
 The pipeline is parameterized to support dynamic deployments across dev and test environments.
-
-## Ensure Consistency:
+### Ensure Consistency:
 Ansible manages configurations and deployment tasks across dev, test, and prod environments, ensuring consistent results.
-### Key Features
+## Key Features
 ### Tomcat Setup on Worker Nodes:
 Automated setup of Tomcat using Ansible [tomcat installation](https://github.com/MASTHAN55/all-setup/blob/main/tomcat.sh) [check version updates befor installation].
 ### Jenkins & Ansible Integration:
