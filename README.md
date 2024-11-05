@@ -39,7 +39,7 @@ Jenkins installed and configured
 
 
 ## Ansible installed and configured
- amazon-linux-extras install ansible2 -y
+ [![h]]](amazon-linux-extras install ansible2 -y)
 
  yum install python3 python-pip python-devel -y
 
